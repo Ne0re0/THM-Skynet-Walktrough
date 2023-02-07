@@ -152,7 +152,7 @@ Wow !  there are a lot of files in here !
 
 !["smb_milesdyson.png"](pictures/smb_milesdyson.png)
 
-they all seem useless except for one : important.txt  
+They all seem useless except for one : important.txt  
 ```bash
 mget important.txt
 ```
