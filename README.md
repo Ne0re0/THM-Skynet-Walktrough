@@ -1,4 +1,4 @@
-# TryHackMe Skynet Room WalkTrought
+# TryHackMe Skynet Room WalkTrough
 
 
 
